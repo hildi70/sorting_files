@@ -1,5 +1,5 @@
 # sorting_files
-Small program to sort files. Specifically, it sorts IN Cell Analyzer output files into subfolders.
+Short program to sort files. Specifically, it sorts IN Cell Analyzer output files into subfolders.
 
 ## THE IDEA:
 When doing experiments with the IN Cell Analyzer, the output is one folder with 1.000+ images.
@@ -23,7 +23,7 @@ For windows, this works via python launcher:
 py  Path/to/script.py
 ```
 
-When working with MAC-OS or have added python to your PATH in windows, you can run the script via:
+When working with MAC-OS or added python to your PATH in windows, you can run the script via:
 ```shell
 python Path/to/script.py
 ```
